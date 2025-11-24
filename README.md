@@ -14,6 +14,6 @@ This MATLAB project simulates the complete process of converting an analog signa
 
 The purpose of this simulation is to demonstrate how real-world signals from sensors (IoT devices, audio systems, etc.) are transformed into digital data that computers can store, process, and transmit. By experimenting with different sampling frequencies and quantization levels, the effects on signal quality and accuracy become clear, helping illustrate concepts such as Nyquist sampling and quantization resolution.
 
-![image](
+![image](https://github.com/jahossain/From-Analog-to-Digital-Signals/blob/main/Screenshot%202025-11-24%20221727.png)
 ![image](
 ![image](
