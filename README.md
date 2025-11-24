@@ -16,4 +16,4 @@ The purpose of this simulation is to demonstrate how real-world signals from sen
 
 ![image](https://github.com/jahossain/From-Analog-to-Digital-Signals/blob/main/Screenshot%202025-11-24%20221727.png)
 ![image](https://github.com/jahossain/From-Analog-to-Digital-Signals/blob/main/Screenshot%202025-11-24%20221738.png)
-![image](
+![image](https://github.com/jahossain/From-Analog-to-Digital-Signals/blob/main/Screenshot%202025-11-24%20221748.png)
